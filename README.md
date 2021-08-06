@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @begonia-474
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 你好！我是begonia
+- 🌱 我正在学习网站搭建设计
+- 💞️ 寻求合作伙伴
 - 📫如何联系我？
 请联系邮箱：wengshizhuang@gmail.com
 <!---
